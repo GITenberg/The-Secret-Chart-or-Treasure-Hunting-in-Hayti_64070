@@ -1,5 +1,8 @@
 _repo: The-Secret-Chart-or-Treasure-Hunting-in-Hayti_64070
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64070-h/images/cover.jpg
 creator:
   author:
     agent_name: Otis, James
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49402
     - https://en.wikipedia.org/wiki/James_Otis_Kaler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64070#The-Secret-Chart-or-Treasure-Hunting-in-Hayti
 gutenberg_issued: '2020-12-18'
 gutenberg_type: Text
 identifiers:
