@@ -1,0 +1,33 @@
+_repo: The-Secret-Chart-or-Treasure-Hunting-in-Hayti_64070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otis, James
+    aliases:
+    - Orton, James K.
+    - Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49402
+    - https://en.wikipedia.org/wiki/James_Otis_Kaler
+description: ''
+gutenberg_issued: '2020-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64070'
+  lccn: https://lccn.loc.gov/85242125
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haiti -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: The Secret Chart; or, Treasure Hunting in Hayti
+url: http://www.gutenberg.org/ebooks/64070
